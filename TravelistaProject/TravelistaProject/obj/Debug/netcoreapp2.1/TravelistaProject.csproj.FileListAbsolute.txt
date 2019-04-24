@@ -1,0 +1,3 @@
+D:\Compentecy\TravelistaProject\TravelistaProject\TravelistaProject\obj\Debug\netcoreapp2.1\TravelistaProject.csproj.CoreCompileInputs.cache
+D:\Compentecy\TravelistaProject\TravelistaProject\TravelistaProject\obj\Debug\netcoreapp2.1\TravelistaProject.AssemblyInfoInputs.cache
+D:\Compentecy\TravelistaProject\TravelistaProject\TravelistaProject\obj\Debug\netcoreapp2.1\TravelistaProject.AssemblyInfo.cs

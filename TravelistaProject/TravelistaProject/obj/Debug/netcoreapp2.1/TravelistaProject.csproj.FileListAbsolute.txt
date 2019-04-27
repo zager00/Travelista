@@ -1,3 +1,14 @@
 D:\Compentecy\TravelistaProject\TravelistaProject\TravelistaProject\obj\Debug\netcoreapp2.1\TravelistaProject.csproj.CoreCompileInputs.cache
 D:\Compentecy\TravelistaProject\TravelistaProject\TravelistaProject\obj\Debug\netcoreapp2.1\TravelistaProject.AssemblyInfoInputs.cache
 D:\Compentecy\TravelistaProject\TravelistaProject\TravelistaProject\obj\Debug\netcoreapp2.1\TravelistaProject.AssemblyInfo.cs
+D:\Compentecy\TravelistaProject\TravelistaProject\TravelistaProject\bin\Debug\netcoreapp2.1\TravelistaProject.deps.json
+D:\Compentecy\TravelistaProject\TravelistaProject\TravelistaProject\bin\Debug\netcoreapp2.1\TravelistaProject.runtimeconfig.json
+D:\Compentecy\TravelistaProject\TravelistaProject\TravelistaProject\bin\Debug\netcoreapp2.1\TravelistaProject.runtimeconfig.dev.json
+D:\Compentecy\TravelistaProject\TravelistaProject\TravelistaProject\bin\Debug\netcoreapp2.1\TravelistaProject.dll
+D:\Compentecy\TravelistaProject\TravelistaProject\TravelistaProject\bin\Debug\netcoreapp2.1\TravelistaProject.pdb
+D:\Compentecy\TravelistaProject\TravelistaProject\TravelistaProject\obj\Debug\netcoreapp2.1\TravelistaProject.RazorAssemblyInfo.cache
+D:\Compentecy\TravelistaProject\TravelistaProject\TravelistaProject\obj\Debug\netcoreapp2.1\TravelistaProject.RazorAssemblyInfo.cs
+D:\Compentecy\TravelistaProject\TravelistaProject\TravelistaProject\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Compentecy\TravelistaProject\TravelistaProject\TravelistaProject\obj\Debug\netcoreapp2.1\TravelistaProject.RazorTargetAssemblyInfo.cache
+D:\Compentecy\TravelistaProject\TravelistaProject\TravelistaProject\obj\Debug\netcoreapp2.1\TravelistaProject.dll
+D:\Compentecy\TravelistaProject\TravelistaProject\TravelistaProject\obj\Debug\netcoreapp2.1\TravelistaProject.pdb

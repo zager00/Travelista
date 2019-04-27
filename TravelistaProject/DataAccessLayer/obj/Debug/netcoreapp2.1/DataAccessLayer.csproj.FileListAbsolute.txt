@@ -1,0 +1,8 @@
+D:\Compentecy\TravelistaProject\TravelistaProject\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.deps.json
+D:\Compentecy\TravelistaProject\TravelistaProject\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+D:\Compentecy\TravelistaProject\TravelistaProject\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+D:\Compentecy\TravelistaProject\TravelistaProject\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Compentecy\TravelistaProject\TravelistaProject\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Compentecy\TravelistaProject\TravelistaProject\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.AssemblyInfo.cs
+D:\Compentecy\TravelistaProject\TravelistaProject\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.dll
+D:\Compentecy\TravelistaProject\TravelistaProject\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.pdb

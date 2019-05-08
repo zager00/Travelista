@@ -1,27 +1,25 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.539
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TravelistaProject", "TravelistaProject\TravelistaProject.csproj", "{3DA8BB19-030E-4209-9CDF-574FCBE53170}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationServices", "NotificationServices\NotificationServices.csproj", "{3836EF9D-E285-49E8-BAE9-64FD04283637}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationServices", "NotificationServices\NotificationServices.csproj", "{3836EF9D-E285-49E8-BAE9-64FD04283637}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentServices", "PaymentServices\PaymentServices.csproj", "{E090715F-F87D-45A5-AD07-F30CCDB6966E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentServices", "PaymentServices\PaymentServices.csproj", "{E090715F-F87D-45A5-AD07-F30CCDB6966E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionServices", "TransactionServices\TransactionServices.csproj", "{A9D33B6E-9C4C-4E67-9CA5-7CC91CA4E1E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransactionServices", "TransactionServices\TransactionServices.csproj", "{A9D33B6E-9C4C-4E67-9CA5-7CC91CA4E1E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryServices", "InventoryServices\InventoryServices.csproj", "{DEEAD0F1-5B87-4739-A3B1-75575F8C63EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryServices", "InventoryServices\InventoryServices.csproj", "{DEEAD0F1-5B87-4739-A3B1-75575F8C63EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserServices", "UserServices\UserServices.csproj", "{086766C4-8D8B-4545-8677-F6AD25ED871F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserServices", "UserServices\UserServices.csproj", "{086766C4-8D8B-4545-8677-F6AD25ED871F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActivityServices", "ActivityServices\ActivityServices.csproj", "{35583D50-F91A-4DFB-AA97-5A678708FFFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ActivityServices", "ActivityServices\ActivityServices.csproj", "{35583D50-F91A-4DFB-AA97-5A678708FFFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelServices", "HotelServices\HotelServices.csproj", "{0189F288-EC2E-4B7B-859B-1E6ADF9B515B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelServices", "HotelServices\HotelServices.csproj", "{0189F288-EC2E-4B7B-859B-1E6ADF9B515B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightServices", "FlightServices\FlightServices.csproj", "{52AB2B8E-32DF-4E28-96A4-C82A7205D6B0}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{E83E1530-F39B-4569-B632-A1C65BF8905C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlightServices", "FlightServices\FlightServices.csproj", "{52AB2B8E-32DF-4E28-96A4-C82A7205D6B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -65,10 +63,6 @@ Global
 		{52AB2B8E-32DF-4E28-96A4-C82A7205D6B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52AB2B8E-32DF-4E28-96A4-C82A7205D6B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52AB2B8E-32DF-4E28-96A4-C82A7205D6B0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E83E1530-F39B-4569-B632-A1C65BF8905C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E83E1530-F39B-4569-B632-A1C65BF8905C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E83E1530-F39B-4569-B632-A1C65BF8905C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E83E1530-F39B-4569-B632-A1C65BF8905C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

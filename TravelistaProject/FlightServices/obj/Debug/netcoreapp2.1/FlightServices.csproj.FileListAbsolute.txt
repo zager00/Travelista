@@ -12,3 +12,4 @@ D:\Compentecy\TravelistaProject\TravelistaProject\FlightServices\obj\Debug\netco
 D:\Compentecy\TravelistaProject\TravelistaProject\FlightServices\obj\Debug\netcoreapp2.1\FlightServices.RazorTargetAssemblyInfo.cache
 D:\Compentecy\TravelistaProject\TravelistaProject\FlightServices\obj\Debug\netcoreapp2.1\FlightServices.dll
 D:\Compentecy\TravelistaProject\TravelistaProject\FlightServices\obj\Debug\netcoreapp2.1\FlightServices.pdb
+D:\Compentecy\TravelistaProject\TravelistaProject\FlightServices\obj\Debug\netcoreapp2.1\FlightServices.csprojAssemblyReference.cache
